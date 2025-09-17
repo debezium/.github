@@ -1,0 +1,17 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+:hide-uri-scheme:
+:figure-caption!:
+
+= image:https://avatars.githubusercontent.com/u/11964329?s=48&v=4[Debezium logo,width=32,height=32] Welcome to Debezium
+
+Here you can find our https://github.com/debezium/debezium[main repository], our https://issues.redhat.com/projects/DBZ[issue tracker] and https://debezium.io/documentation/reference/stable[documentation].
+
+If you are looking to get started with Debezium, check out our https://debezium.io/documentation/reference/stable/tutorial.html[tutorial].
+
+Please get involved in the community by checking out our https://debezium.zulipchat.com/#narrow/stream/302529-users[Zulip chat] or https://groups.google.com/forum/#!forum/debezium[mailing list].
