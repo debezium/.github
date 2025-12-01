@@ -18,10 +18,10 @@ endif::[]
 </p>
 ++++
 
-image:https://img.shields.io/github/license/debezium/debezium[GitHub License]
-image:https://img.shields.io/maven-central/v/io.debezium/debezium-core[Maven Central Version]
-image:https://img.shields.io/github/stars/debezium/debezium[GitHub Repo stars]
-image:https://img.shields.io/twitter/follow/debezium[X (formerly Twitter) Follow]
+link:https://github.com/debezium/debezium/blob/main/LICENSE.txt[image:https://img.shields.io/github/license/debezium/debezium[GitHub License]]
+link:https://central.sonatype.com/artifact/io.debezium/debezium-core/versions[image:https://img.shields.io/maven-central/v/io.debezium/debezium-core[Maven Central Version]]
+link:https://github.com/debezium/debezium[image:https://img.shields.io/github/stars/debezium/debezium[GitHub Repo stars]]
+link:https://x.com/debezium[image:https://img.shields.io/twitter/follow/debezium[X (formerly Twitter) Follow]]
 
 Debezium is an open-source distributed platform designed for Change Data Capture (CDC), providing applications with an industry-standard way to respond to real-time database changes.
 
