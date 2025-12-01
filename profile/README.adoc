@@ -8,10 +8,47 @@ endif::[]
 :hide-uri-scheme:
 :figure-caption!:
 
-= image:https://avatars.githubusercontent.com/u/11964329?s=48&v=4[Debezium logo,width=32,height=32] Welcome to Debezium
+++++
+<p style="text-align: center;" align="center">
+    <picture align="center">
+        <source media="(prefers-color-scheme: light)" srcset="https://debezium.io/assets/images/color_black_debezium_type_600px.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://debezium.io/assets/images/color_white_debezium_type_600px.png">
+        <img align="center" src="https://debezium.io/assets/images/color_white_debezium_type_600px.png" alt="Debezium Logo" width="35%" />
+    </picture>
+</p>
+++++
 
-Here you can find our https://github.com/debezium/debezium[main repository], our https://issues.redhat.com/projects/DBZ[issue tracker] and https://debezium.io/documentation/reference/stable[documentation].
+image:https://img.shields.io/github/license/debezium/debezium[GitHub License]
+image:https://img.shields.io/maven-central/v/io.debezium/debezium-core[Maven Central Version]
+image:https://img.shields.io/github/stars/debezium/debezium[GitHub Repo stars]
+image:https://img.shields.io/twitter/follow/debezium[X (formerly Twitter) Follow]
 
-If you are looking to get started with Debezium, check out our https://debezium.io/documentation/reference/stable/tutorial.html[tutorial].
+Debezium is an open-source distributed platform designed for Change Data Capture (CDC), providing applications with an industry-standard way to respond to real-time database changes.
 
-Please get involved in the community by checking out our https://debezium.zulipchat.com/#narrow/stream/302529-users[Zulip chat] or https://groups.google.com/forum/#!forum/debezium[mailing list].
+See our https://debezium.io[website] for more details about the project.
+
+=== Getting started with Debezium?
+
+Check out our https://debezium.io/documentation/reference/stable/tutorial.html[tutorial] to learn how to set up and deploy Debezium.
+
+=== Need help?
+
+If you want to get in touch with us, you can use:
+
+* https://debezium.zulipchat.com/#narrow/stream/302529-users[Zulip chat]
+* https://groups.google.com/forum/#!forum/debezium[Mailing list]
+
+=== Want to Contribute?
+
+You can contribute by:
+
+* Raising an issue in our https://github.com/debezium/dbz/issues[issue tracker].
+* Fixing issues by opening pull requests.
+* Improving the https://debezium.io/documentation/reference/stable[documentation].
+* Talking about and raising awareness about Debezium.
+
+Have other questions about contributing, see our https://github.com/debezium/debezium/blob/main/CONTRIBUTE.md[Contributing Guide] for more details.
+
+'''
+
+https://debezium.io[Debezium] is a project member of the https://www.commonhaus.org[Commonhaus Foundation].
