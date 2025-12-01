@@ -44,7 +44,7 @@ You can contribute by:
 
 * Raising an issue in our https://github.com/debezium/dbz/issues[issue tracker].
 * Fixing issues by opening pull requests.
-* Improving the https://debezium.io/documentation/reference/stable[documentation].
+* Improving the https://debezium.io/documentation/reference/stable[documentation], source located https://github.com/debezium/debezium/tree/main/documentation[here].
 * Talking about and raising awareness about Debezium.
 
 Have other questions about contributing, see our https://github.com/debezium/debezium/blob/main/CONTRIBUTE.md[Contributing Guide] for more details.
