@@ -22,6 +22,8 @@ link:https://github.com/debezium/debezium/blob/main/LICENSE.txt[image:https://im
 link:https://central.sonatype.com/artifact/io.debezium/debezium-core/versions[image:https://img.shields.io/maven-central/v/io.debezium/debezium-core[Maven Central Version]]
 link:https://github.com/debezium/debezium[image:https://img.shields.io/github/stars/debezium/debezium[GitHub Repo stars]]
 link:https://x.com/debezium[image:https://img.shields.io/twitter/follow/debezium[X (formerly Twitter) Follow]]
+link:https://linkedin.com/company/debezium[image:https://custom-icon-badges.demolab.com/badge/Follow%20@debezium-0A66C2?logo=linkedin-white&logoColor=fff[LinkedIn Follow]]
+link:https://insights.linuxfoundation.org/project/debezium[image:https://insights.linuxfoundation.org/api/badge/health-score?project=debezium[LFX Health Score]]
 
 Debezium is an open-source distributed platform designed for Change Data Capture (CDC), providing applications with an industry-standard way to respond to real-time database changes.
 
