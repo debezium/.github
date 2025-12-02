@@ -49,7 +49,7 @@ You can contribute by:
 * Improving the https://debezium.io/documentation/reference/stable[documentation], source located https://github.com/debezium/debezium/tree/main/documentation[here].
 * Talking about and raising awareness about Debezium.
 
-Have other questions about contributing, see our https://github.com/debezium/debezium/blob/main/CONTRIBUTE.md[Contributing Guide] for more details.
+Have other questions about contributing, see our https://github.com/debezium/debezium/blob/main/CONTRIBUTING.md[Contributing Guide] for more details.
 
 '''
 
