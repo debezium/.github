@@ -32,7 +32,7 @@ link:https://insights.linuxfoundation.org/project/debezium[image:https://insight
 <h3>📢 Debezium 2026 Community Feedback Survey</h3>
 <p>Help shape the future of Debezium! Share your feedback in our 2026 survey. Only takes a few minutes.</p>
 <p>
-<a href="https://docs.google.com/forms/d/1GGB3Q2KHo77sE1m1XX-0Hlsl39F7Zdsh0IWFFDCv4mQ/edit">
+<a href="https://forms.gle/PTfdSrDtefa8dLcA7">
 <img src="https://img.shields.io/badge/Take%20the%20Survey-91d443?style=for-the-badge&logo=google-forms&logoColor=white" alt="Take the Survey"/>
 </a>
 </p>
