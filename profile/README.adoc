@@ -25,22 +25,6 @@ link:https://x.com/debezium[image:https://img.shields.io/twitter/follow/debezium
 link:https://linkedin.com/company/debezium[image:https://custom-icon-badges.demolab.com/badge/Follow%20@debezium-0A66C2?logo=linkedin-white&logoColor=fff[LinkedIn Follow]]
 link:https://insights.linuxfoundation.org/project/debezium[image:https://insights.linuxfoundation.org/api/badge/health-score?project=debezium[LFX Health Score]]
 
-++++
-<table align="center" width="100%">
-<tr>
-<td align="center" bgcolor="#91d443" style="background: linear-gradient(135deg, #91d443 0%, #48bfe0 100%); padding: 25px;">
-<h3>📢 Debezium 2026 Community Feedback Survey</h3>
-<p>Help shape the future of Debezium! Share your feedback in our 2026 survey. Only takes a few minutes.</p>
-<p>
-<a href="https://forms.gle/PTfdSrDtefa8dLcA7">
-<img src="https://img.shields.io/badge/Take%20the%20Survey-91d443?style=for-the-badge&logo=google-forms&logoColor=white" alt="Take the Survey"/>
-</a>
-</p>
-</td>
-</tr>
-</table>
-++++
-
 Debezium is an open-source distributed platform designed for Change Data Capture (CDC), providing applications with an industry-standard way to respond to real-time database changes.
 
 See our https://debezium.io[website] for more details about the project.
