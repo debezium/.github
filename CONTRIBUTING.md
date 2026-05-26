@@ -7,4 +7,4 @@ You can find guidelines and instructions on how to contribute [here](https://git
 ## Developer Certificate of Origin (DCO)
 
 The Debezium project enforces a Developer Certificate of Origin (DCO) check on all code submissions.
-More information can be found about the DCO [here](https://github.com/debezium/.github/edit/main/dco.txt).
+More information can be found about the DCO [here](https://github.com/debezium/.github/blob/main/dco.txt).
