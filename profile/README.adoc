@@ -45,7 +45,8 @@ If you want to get in touch with us, you can use:
 You can contribute by:
 
 * Raising an issue in our https://github.com/debezium/dbz/issues[issue tracker].
-* Fixing issues by opening pull requests.
+* Fixing issues by opening pull requests. 
+* First time contribution? Take a look to the [good-first-issue](https://github.com/debezium/dbz/contribute) list!
 * Improving the https://debezium.io/documentation/reference/stable[documentation], source located https://github.com/debezium/debezium/tree/main/documentation[here].
 * Talking about and raising awareness about Debezium.
 
